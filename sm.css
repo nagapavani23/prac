@@ -32,6 +32,7 @@ body {
     padding: 1rem 0;
     z-index: 1000;
     border-bottom: 1px solid var(--border-color);
+    border:1px;
 }
 
 .nav-container {
